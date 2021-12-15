@@ -1,0 +1,50 @@
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+}
+
+
+.mainbody{
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    padding-right: 5px;
+}
+
+
+.footer{
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 10px;
+    color: #050303;
+    text-align: center;
+    position: fixed;
+}
+
+.background{
+    background-color: rgb(202, 155, 155);
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.center{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    font-size: 30px;
+}
